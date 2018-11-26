@@ -5,5 +5,11 @@ h1
 /**
  * least priority css in extra css file
  * 
+ * in a css file priority last guy always win
+ * 
+ * means if i write two sepate color statements for h1 header in same css file
+ * 
+ * then last statements color or attributes will show
+ * 
  * but always it's a good idea to write the css code in a separate file
  */
