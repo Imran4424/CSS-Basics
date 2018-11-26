@@ -3,16 +3,27 @@
         background-image: url("../images/bg.png");
 } */
 
+
 body
 {
         background: url("../images/key.jpg");
         background-size: cover;
+        background-attachment: fixed;
         background-repeat: no-repeat;
-        background-position: top;
+
+        /* background-position: top; */
 }
 
 h1
 {
         color: white;
         text-align: center;
+        /* border: 3px solid red; */
+
+        padding: 20px;
+        width: 500px;
+        margin: 150px auto; /** this statement will not work without width */
+
+        font-family: 'Cuprum', sans-serif;
+        font-size: 3em; /** em is relative for font, pixel are not */
 }
