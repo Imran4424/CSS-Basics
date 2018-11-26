@@ -1,0 +1,16 @@
+body
+{
+        background: url("../images/gym.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+
+h1
+{
+        color: white;
+        width: 300px;
+        margin: 150px auto;
+        text-align: center;
+}
