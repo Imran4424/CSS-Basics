@@ -3,13 +3,18 @@
         height: 400px;
         /* background: linear-gradient(red, blue); */
         /* background: linear-gradient(to bottom right,red, blue); */
-        background: linear-gradient(to right,red, blue);
+        background: linear-gradient(to right,red,grey);
 }
 
 .circle
 {
         height: 400px;
-        background: radial-gradient(red, green);        
+        background: radial-gradient(white, grey);       
+}
+
+input[type = "checkbox"]:checked + label
+{
+        text-decoration: line-through;
 }
 
 .background
