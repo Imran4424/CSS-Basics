@@ -1,0 +1,7 @@
+.big
+{
+        height: 400px;
+        /* background: linear-gradient(red, blue); */
+        background: linear-gradient(to right,red, blue);
+
+}
