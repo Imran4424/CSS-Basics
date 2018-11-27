@@ -6,6 +6,12 @@
         background: linear-gradient(to right,red, blue);
 }
 
+.circle
+{
+        height: 400px;
+        background: radial-gradient(red, green);        
+}
+
 .background
 {
         background-image: url(../images/key.jpg);
