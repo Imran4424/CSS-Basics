@@ -2,6 +2,13 @@
 {
         height: 400px;
         /* background: linear-gradient(red, blue); */
+        /* background: linear-gradient(to bottom right,red, blue); */
         background: linear-gradient(to right,red, blue);
+}
 
+.background
+{
+        background-image: url(../images/key.jpg);
+        background-attachment: fixed;
+        background-size: cover;
 }
